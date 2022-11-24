@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\DLS-RPF-213\Day-29-Indian-State-Census-Analyser\Day-29-Indian-State-Census-Analyser\obj\Debug\net6.0\Day-29-Indian-State-Census-Analyser.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DLS-RPF-213\Day-29-Indian-State-Census-Analyser\Day-29-Indian-State-Census-Analyser\obj\Debug\net6.0\Day-29-Indian-State-Census-Analyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DLS-RPF-213\Day-29-Indian-State-Census-Analyser\Day-29-Indian-State-Census-Analyser\obj\Debug\net6.0\Day-29-Indian-State-Census-Analyser.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DLS-RPF-213\Day-29-Indian-State-Census-Analyser\Day-29-Indian-State-Census-Analyser\obj\Debug\net6.0\Day-29-Indian-State-Census-Analyser.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DLS-RPF-213\Day-29-Indian-State-Census-Analyser\Day-29-Indian-State-Census-Analyser\obj\Debug\net6.0\Day-29-Indian-State-Census-Analyser.csproj.CoreCompileInputs.cache
